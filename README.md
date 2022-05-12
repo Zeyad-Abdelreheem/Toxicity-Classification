@@ -5,3 +5,13 @@ This repo is about creating a simple comment toxicity classifier
 
 ### The expected output is
 <img src="test.png" alt="out" title="toxicity classifier">
+
+
+## The Outline
+### * Collect the dataset
+### * Clean and preprocess the dataset
+### * Create the model
+### * Train the model
+### * Evaluate the model
+### * Deploy the model in the app
+### * Resources
