@@ -8,10 +8,20 @@ This repo is about creating a simple comment toxicity classifier
 
 
 ## The Outline
-### * Collect the dataset
-### * Clean and preprocess the dataset
-### * Create the model
-### * Train the model
-### * Evaluate the model
-### * Deploy the model in the app
-### * Resources
+### 1- Collect the dataset
+### 2- Clean and preprocess the dataset
+### 3- Create the model
+### 4- Train the model
+### 5- Evaluate the model
+### 6- Deploy the model in the app
+### 7- Resources
+------------------------------------------------------------------------
+
+The data was downloaded from kaggle [2]
+
+all related details untill step 5 can be found in train.ipynb 
+
+## Resources :-
+##### [1] Nicholas renotte youtube channel : https://www.youtube.com/watch?v=ZUqB-luawZg
+##### [2] Kaggle dataset : https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
+
