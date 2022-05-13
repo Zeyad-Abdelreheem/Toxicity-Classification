@@ -21,6 +21,12 @@ The data was downloaded from kaggle [2]
 
 all related details untill step 5 can be found in train.ipynb 
 
+
+definitely this is not a perfect classifier (there is no perfect one)
+but it can get analyze comments with accuracy between 80 to 90 %
+to improve these results :-
+- more dataset is needed as there are a lot of neutral comments that make the model slightly biased 
+
 ## Resources :-
 ##### [1] Nicholas renotte youtube channel : https://www.youtube.com/watch?v=ZUqB-luawZg
 ##### [2] Kaggle dataset : https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
