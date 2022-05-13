@@ -22,10 +22,14 @@ The data was downloaded from kaggle [2]
 all related details untill step 5 can be found in train.ipynb 
 
 
-definitely this is not a perfect classifier (there is no perfect one)
+definitely this is not a perfect classifier (there is no perfect one).
+
 but it can get analyze comments with accuracy between 80 to 90 %
+
 to improve these results :-
-- more dataset is needed as there are a lot of neutral comments that make the model slightly biased 
+- More dataset is needed as there are a lot of neutral comments that make the model slightly biased 
+- Some tuning is needed to handle bias - variance trade off
+
 
 ## Resources :-
 ##### [1] Nicholas renotte youtube channel : https://www.youtube.com/watch?v=ZUqB-luawZg
