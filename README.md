@@ -29,6 +29,7 @@ but it can get analyze comments with accuracy between 80 to 90 %
 to improve these results :-
 - More dataset is needed as there are a lot of neutral comments that make the model slightly biased 
 - Some tuning is needed to handle bias - variance trade off
+- Transfer learning can be used by using BERT for a better text encoding
 
 
 ## Resources :-
