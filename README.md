@@ -1,4 +1,4 @@
-# Toxicity_Classification
+# Toxicity-Classification
 
 This repo is about creating a simple comment toxicity classifier
 (based on this tutorial [1])
