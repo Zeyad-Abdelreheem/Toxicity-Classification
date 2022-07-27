@@ -1,7 +1,7 @@
 # Toxicity-Classification
 
 This repo is about creating a simple comment toxicity classifier
-(based on this tutorial [1])
+(based on this [tutorial](https://www.youtube.com/watch?v=ZUqB-luawZg) )
 
 ### The expected output is
 <img src="test.png" alt="out" title="toxicity classifier">
@@ -17,7 +17,7 @@ This repo is about creating a simple comment toxicity classifier
 #### 7- Resources
 ------------------------------------------------------------------------
 
-The data was downloaded from kaggle [2]
+The [data](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data) was downloaded from kaggle
 
 all related details untill step 5 can be found in train.ipynb 
 
